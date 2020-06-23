@@ -1,0 +1,133 @@
+body{
+    /* background-image: url("tc3b6.jpg"); */
+    background-color: white;
+    background-attachment: fixed;
+}
+.logodiv{
+    width: 80%;
+    /* background-color: wheat; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.bodydiv{
+    width: 70%;
+    /* height: 50vh; */
+    background-color: white;
+    border-color: coral;
+    border-style: solid;
+    /* background-image: url("p9w7o.jpg"); */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40vh;
+}
+.logo{
+    width: 30%;
+    height: auto;
+    margin-top: -12vh;
+    position: fixed;
+}
+.tabs{
+    width: 10vh;
+    margin-left: 4vh;
+    margin-right: 4vh;
+}
+.search{
+    border-color: coral;
+    border-style: solid;
+    float: right;
+    margin-right: 2vh;
+    height: 8vh;
+}
+.search1{
+    border-color: coral;
+    border-style: solid;
+    float: right;
+    margin-right: 2vh;
+    height: 8vh;
+}
+.hr{
+    color: coral;
+    border-style: solid;
+}
+.login{
+    color: coral;
+    border-style: solid;
+    border-color: coral;
+    float: right;
+    width: 15vh;
+    height: 8vh;
+    margin-left: 2vh;
+}
+.time{
+    color: coral;
+    border-style: solid;
+    float: right;
+    margin-top: -28vh;
+    /* margin-right: 10vh; */
+    float: right;
+}
+.downdown{
+    background-color: black;
+    width: 70%;
+    height: fit-content;
+    margin-top: 4vh;
+    color: coral;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+}
+.login1{
+    float: right;
+    margin-right: 4vh;
+    width: 10vh;
+    border-color: coral;
+    border-style: solid;
+    color: white;
+    background-color: coral;
+}
+.button{
+    border-color: coral;
+    border-style: solid;
+    color: white;
+    background-color: coral;
+}
+.hotcategories{
+    margin-top: -2.5vh;
+    margin-left: 8vh;
+    margin-right: 8vh;
+    float: right;
+}
+.heading{
+    color: wheat;
+    font-weight: bolder;
+}
+.Nothinghere{
+    margin-top: -2.5vh;
+    margin-left: 8vh;
+    margin-right: 8vh;
+    float: right;
+}
+.Nothinghere1{
+    margin-top: -2.5vh;
+    margin-left: 8vh;
+    margin-right: 8vh;
+}
+.information{
+    margin-top: -2.5vh;
+    float: right;
+    margin-left: 8vh;
+    margin-right: 8vh;
+}
+.socialdiv{
+    width: 70vh;
+    /* height: 10vh; */
+    background-color: coral;
+    margin-right: auto;
+    margin-left: auto;
+}
+.facebook{
+    width: 4vh;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
